@@ -1,2 +1,2 @@
 *.tmp
-/src/npm
+/src/node_modules
